@@ -23,3 +23,4 @@ cp ~/peda/.inputrc ~/
 git clone https://github.com/scwuaptx/Pwngdb.git
 cp ~/Pwngdb/.gdbinit ~/
 git clone https://github.com/JonathanSalwan/ROPgadget
+cp /tmp/ctf/.tmux.conf ~/
